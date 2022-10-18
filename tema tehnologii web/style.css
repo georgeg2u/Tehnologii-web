@@ -1,10 +1,14 @@
 #div1 {
     background-color: rgb(157, 243, 246);
     text-align: center;
-    padding-top: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     width: 100%;
-    height: 200px;
-    margin-bottom: -20px;
+    height: 30%;
+}
+
+body {
+    margin: 0px;
 }
 
 h1 {
@@ -15,7 +19,6 @@ h1 {
 p {
     font-family: 'Courier New', Courier, monospace;
     color:blue;
-  
 }
 
 #div2 {
@@ -23,7 +26,7 @@ p {
     padding-top: 5px;
     text-align: center;
     width: 100%;
-    height:250px;
+    height:20%;
 }
 
 h2 {
@@ -44,8 +47,8 @@ hr {
     border-style: dotted none none;
     border-width: 7px;
     border-color: gray;
-    margin-bottom:30px;
-   
+    margin-bottom: 0px;
+    padding-bottom: 20px;    
 }
 
 #description {
@@ -55,9 +58,10 @@ hr {
 
 #div3 {
     background-color: rgb(216, 212, 212);
-    padding-top:5px;
+    padding-top:20px;
     width:100%;
-    height:300px;
+    height:25%;
+    padding-bottom: 20px;
 }
 
 #computerimg {
@@ -66,7 +70,6 @@ hr {
     float: left;
     margin: 0, 15px, 0 , 0;
     border-radius: 50%;
- 
 }
 
 #div3-1 {
@@ -94,7 +97,6 @@ h3 {
     float: right;
     border-radius: 50%;
     margin-top: 10px;
-    
 }
 
 #div3-2 {
@@ -112,7 +114,6 @@ h3 {
     margin-top: 30px;
     padding-top: 10px;
     padding-bottom: 10px;
-
 }
 
 #div4 {
@@ -120,31 +121,33 @@ h3 {
     padding-top: 5px;
     text-align: center;
     width: 100%;
-    height:200px;
+    height:15%;
+    padding-bottom: 30px;
 }
+
 #div5 {
     background-color: rgb(157, 243, 246);
     text-align: center;
     padding-top: 40px;
     width: 100%;
-    height: 50px;
+    height: 10%;
+    padding-bottom: 5px;
 }
+
 a {
     color:rgb(0, 145, 255);
     text-decoration: none;
     font-weight: bold;
 }
+
 li {
     display: inline;
     padding-right: 70px;
     color:rgb(0, 145, 255);
-
-
 }
 
 ul{
     margin-top: -20px;
-    
 }
 
 #copyright{
